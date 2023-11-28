@@ -63,4 +63,4 @@ jobs:
           app-name: 'testphpchile2021'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A60E87FB21A4078A8EA916677130F38 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3117A70CA325456C9B284B1CFB0613A9 }}
